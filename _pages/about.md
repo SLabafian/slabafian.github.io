@@ -18,11 +18,10 @@ My journey has been shaped by a diverse academic and professional background, wh
 
 ________________________
 
-If you don’t catch me in person, feel free to shoot me an email—I’ll do my best to get back to you after my run ;)!
+You can always find me in the Library or Lab, If you don’t catch me in person, feel free to shoot me an email—I’ll do my best to get back to you ASAP
 
 
 
 
-** + To all my beloved friends from Iran: ** please feel free to reach out to me via email if you need assistance with improving your CVs, Statements of Purpose (SoPs), or navigating the application process. I’d be happy to help or connect you with a friend who might be even more helpful. Just be sure to mention this in the subject line of your email so I can prioritize your message!
-
+** To all my beloved friends from Iran: feel free to reach out to me via email if you need assistance with improving your CVs, SoPs, or navigating the application process. I’d be happy to help or connect you with a friend who might be even more helpful. Just be sure to mention this in the subject line of your email so I can prioritize your message!
 (It’s totally free and will be served with a smile)
