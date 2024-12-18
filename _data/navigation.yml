@@ -6,13 +6,13 @@
 
 main:
 
-  - title: "CV"
-    url: /files/CVFile.pdf
+ # - title: "CV"
+ #   url: /files/CVFile.pdf
 
   - title: "How to learn..."
     url: /teaching/    
 
-  - title: "Skills"
+  - title: "Failure Resume"
     url: /portfolio/
 
     
