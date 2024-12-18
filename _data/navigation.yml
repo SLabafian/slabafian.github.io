@@ -7,12 +7,12 @@
 main:
 
   - title: "CV"
-    url: /files/CV File.pdf
+    url: /files/CVFile.pdf
 
   - title: "Suggestions"
     url: /teaching/    
 
-      - title: "Skills"
+  - title: "Skills"
     url: /portfolio/
 
     
@@ -21,15 +21,9 @@ main:
 
 #  - title: "Talks"
 #    url: /talks/    
-
-
-    
-
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-
-    
+        
 #  - title: "Guide"
 #    url: /markdown/
