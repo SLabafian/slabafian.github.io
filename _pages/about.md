@@ -20,7 +20,7 @@ ________________________
 
 You can always find me in the Library or Lab, If you don’t catch me in person, feel free to shoot me an email—I’ll do my best to get back to you ASAP
 
-If you want to join our weekly events, please email [Matti] (mp12@soas.ac.uk)
+If you want to join our weekly events, please email [Matti](mp12@soas.ac.uk)
 
 
 ** To all my beloved friends from Iran: feel free to reach out to me via email if you need assistance with improving your CVs, SoPs, or navigating the application process. I’d be happy to help or connect you with a friend who might be even more helpful. Just be sure to mention this in the subject line of your email so I can prioritize your message!
