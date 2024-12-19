@@ -10,7 +10,7 @@ author_profile: true
 
 * learning R:
   
-  (/images/editing-talk.png)
+  ![Editing a markdown file for a talk](/images/editing-talk.png)
   
   [R Programming For Beginners [2024 Updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
 
@@ -18,38 +18,37 @@ author_profile: true
 
   Believe me, this is the best complete course you'll find anywhere! It's totally free (available on YouTube). It also offers many specific and focused courses. Here are my recommendations:
 
-  - [Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial](https://www.youtube.com/watch?v=HmEPCEXn-ZM&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=16)
+[Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial](https://www.youtube.com/watch?v=HmEPCEXn-ZM&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=16)
 
-  - [Machine Learning With R | Machine Learning Full Course](https://www.youtube.com/watch?v=6dEUTmoXz0w&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=4)
-  
-  - [R Tutorial For Beginners 2022 | R Programming Full Course In 7 Hours](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=2)
+[Machine Learning With R | Machine Learning Full Course](https://www.youtube.com/watch?v=6dEUTmoXz0w&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=4)
+
+[R Tutorial For Beginners 2022 | R Programming Full Course In 7 Hours](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=2)
 
 
 
 * Learning Python:
   
-  (/images/editing-talk.png)
+   ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-NB_Keyword_Alpha_la.EN_Google&campaigntype=Search&portfolio=GreatBritain&language=EN&product=Course&test=&audience=Keyword&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_158764601497_._ad_707601457906_._kw_python+free+course_._de_c_._dm__._pl__._ti_kwd-298564862288_._li_9045886_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAiApY-7BhBjEiwAQMrrET6TDeZUUMNsoQsa0fUmwjxboxkto7q8-6p9GY6tr_T_KXwkHV4pzRoC77AQAvD_BwE&couponCode=ST21MT121624)
+  [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-NB_Keyword_Alpha_la.EN_Google&campaigntype=Search&portfolio=GreatBritain&language=EN&product=Course&test=&audience=Keyword&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_158764601497_._ad_707601457906_._kw_python+free+course_._de_c_._dm__._pl__._ti_kwd-298564862288_._li_9045886_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAiApY-7BhBjEiwAQMrrET6TDeZUUMNsoQsa0fUmwjxboxkto7q8-6p9GY6tr_T_KXwkHV4pzRoC77AQAvD_BwE&couponCode=ST21MT121624)
  
   
-  If you want to learn Python once and for all, I highly recommend this course. It’s nearly 52 hours long, and you can easily complete it over a month. The course is well-structured, making it accessible for both beginners and those with some prior knowledge. Each topic is explained thoroughly, with hands-on exercises and real-world projects that reinforce the concepts. I particularly enjoyed the sections on web development, data analysis, and automation, which provided practical skills I could immediately apply. The instructor’s teaching style is clear, engaging, and motivating, and the course materials are top-notch.
+    If you want to learn Python once and for all, I highly recommend this course. It’s nearly 52 hours long, and you can easily complete it     over a month. The course is well-structured, making it accessible for both beginners and those with some prior knowledge. Each topic is     explained thoroughly, with hands-on exercises and real-world projects that reinforce the concepts. I particularly enjoyed the sections on     web development, data analysis, and automation, which provided practical skills I could immediately apply. The instructor’s teaching style   is clear, engaging, and motivating, and the course materials are top-notch.
 
 
 (Pro tip: I have an 80% referral coupon for it.  Normally priced at £90, it’s available for only £20 with the coupon!)
 
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
-  (/images/editing-talk.png)
+  [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 
-  [CS50's Introduction to Artificial Intelligence with Python] (https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
-
-If you're more interested in AI programming with Python, CS50's Introduction to Artificial Intelligence with Python is the best! 
+**If you're more interested in AI programming with Python, CS50's Introduction to Artificial Intelligence with Python is the best! 
 
 It was a truly transformative learning experience, providing both theoretical understanding and hands-on programming skills. The course begins with an introduction to AI concepts like search algorithms, knowledge representation, machine learning, neural networks, and natural language processing. What I appreciated most was how practical the course was. The assignments required me to implement AI algorithms in Python, reinforcing the material and giving me valuable coding experience.
 
 
 * Business Analytics:
-    (/images/editing-talk.png)
+    ![Editing a markdown file for a talk](/images/editing-talk.png)
 
   [Get Ahead in Business Analytics and Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
 
@@ -63,7 +62,7 @@ I've shared my comments and insights about this learning pathway on my LinkedIn 
 
 * Statistical Analysis:
 
-(/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
   [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
 
