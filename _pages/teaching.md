@@ -73,12 +73,18 @@ If you haven't taken any statistical courses, or you've forgotten what you learn
 It's available on LinkedIn Learning, is concise (just 5 hours), and covers all the essential knowledge you need, starting from the basics.
 
 
+ ![Editing a markdown file for a talk](/images/editing-talk.png)
+
 
 To deepen your statistical knowledge, especially if you're into machine learning or working with datasets, I highly recommend these two courses—I’ve learned a lot from them!
 
 [Bayesian Statistics Specialization](https://www.coursera.org/specializations/bayesian-statistics)
 
+
 You can audit these courses to access the materials for free. Also, I believe you can focus on the specific chapters you need. You’ll really enjoy the flow of the instructors—they make learning much easier and more enjoyable.
+
+ ![Editing a markdown file for a talk](/images/editing-talk.png)
+
 
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
 
