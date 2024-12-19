@@ -10,7 +10,7 @@ author_profile: true
 
 * learning R:
   
-  ![Editing a markdown file for a talk](/images/editing-talk.png)
+  ![Editing a markdown file for a talk](/images/1.png)
   
   [R Programming For Beginners [2024 Updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
 
@@ -28,7 +28,7 @@ author_profile: true
 
 * Learning Python:
   
-   ![Editing a markdown file for a talk](/images/editing-talk.png)
+   ![Editing a markdown file for a talk](/images/2.png)
 
   [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-NB_Keyword_Alpha_la.EN_Google&campaigntype=Search&portfolio=GreatBritain&language=EN&product=Course&test=&audience=Keyword&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_158764601497_._ad_707601457906_._kw_python+free+course_._de_c_._dm__._pl__._ti_kwd-298564862288_._li_9045886_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAiApY-7BhBjEiwAQMrrET6TDeZUUMNsoQsa0fUmwjxboxkto7q8-6p9GY6tr_T_KXwkHV4pzRoC77AQAvD_BwE&couponCode=ST21MT121624)
  
@@ -38,7 +38,7 @@ author_profile: true
 
 (Pro tip: I have an 80% referral coupon for it.  Normally priced at £90, it’s available for only £20 with the coupon!)
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/3.png)
 
   [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 
@@ -48,7 +48,7 @@ It was a truly transformative learning experience, providing both theoretical un
 
 
 * Business Analytics:
-    ![Editing a markdown file for a talk](/images/editing-talk.png)
+    ![Editing a markdown file for a talk](/images/4.png)
 
   [Get Ahead in Business Analytics and Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
 
@@ -62,7 +62,7 @@ I've shared my comments and insights about this learning pathway on my LinkedIn 
 
 * Statistical Analysis:
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/5.png)
 
   [Build Your Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
 
@@ -73,7 +73,7 @@ If you haven't taken any statistical courses, or you've forgotten what you learn
 It's available on LinkedIn Learning, is concise (just 5 hours), and covers all the essential knowledge you need, starting from the basics.
 
 
- ![Editing a markdown file for a talk](/images/editing-talk.png)
+ ![Editing a markdown file for a talk](/images/6.png)
 
 
 To deepen your statistical knowledge, especially if you're into machine learning or working with datasets, I highly recommend these two courses—I’ve learned a lot from them!
@@ -83,7 +83,7 @@ To deepen your statistical knowledge, especially if you're into machine learning
 
 You can audit these courses to access the materials for free. Also, I believe you can focus on the specific chapters you need. You’ll really enjoy the flow of the instructors—they make learning much easier and more enjoyable.
 
- ![Editing a markdown file for a talk](/images/editing-talk.png)
+ ![Editing a markdown file for a talk](/images/7.png)
 
 
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
