@@ -10,7 +10,7 @@ author_profile: true
 
 * learning R:
   
-  ![Editing a markdown file for a talk](/images/1.png)
+  ![](/images/1.png)
   
   [R Programming For Beginners [2024 Updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
 
