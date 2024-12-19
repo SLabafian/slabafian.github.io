@@ -13,7 +13,7 @@ So, welcome to a list of my professional and personal failures, rejections, and 
 
 If you’re curious to learn more about the idea of failure resumes, here are some resources to explore: [[article](https://www.nytimes.com/2019/02/03/smarter-living/failure-resume.html), [videos](https://www.youtube.com/watch?v=xxZVEv3KuzE)]
 
-+ 2024:
+ 2024:
 
 - I was in pain for two months and injured my right ankle, but I finished my second marathon—a full 42 kilometers in London, fulfilling my dream!
 - I got rejected from Oxford University's internship scholarship for ethical AI. 
@@ -21,7 +21,7 @@ If you’re curious to learn more about the idea of failure resumes, here are so
 
   
 
-+ 2023:
+ 2023:
 
  - I was rejected for the Chevening Scholarship, but I received a full tuition fee research scholarship!
   - I missed the deadline to apply to Amsterdam University.
@@ -30,5 +30,5 @@ If you’re curious to learn more about the idea of failure resumes, here are so
 
   
 
-+ 2022:
+ 2022:
 - Our startup failed in Tehran, but I decided to learn more about management and business analytics, which gave me invaluable knowledge and skills.
