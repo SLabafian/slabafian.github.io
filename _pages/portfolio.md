@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Failure Sucks."
+title: "Failure Sucks!"
 permalink: /portfolio/
 author_profile: true
 ---
