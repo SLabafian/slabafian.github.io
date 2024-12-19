@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 
-div {
-  height: 100px;
-  width: 500px;
-  background-color: powderblue;
-}
-
 * learning R:
   
   ![](/images/1.png)
@@ -29,6 +23,8 @@ div {
 [R Tutorial For Beginners 2022 - R Programming Full Course In 7 Hours](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=2)
 
 
+=====
+
 
 * Learning Python:
   
@@ -42,6 +38,9 @@ div {
 
 (Pro tip: I have an 80% referral coupon for it.  Normally priced at £90, it’s available for only £20 with the coupon!)
 
+
+=====
+
 ![Editing a markdown file for a talk](/images/3.png)
 
   [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
@@ -49,6 +48,8 @@ div {
 **If you're more interested in AI programming with Python, CS50's Introduction to Artificial Intelligence with Python is the best! 
 
 It was a truly transformative learning experience, providing both theoretical understanding and hands-on programming skills. The course begins with an introduction to AI concepts like search algorithms, knowledge representation, machine learning, neural networks, and natural language processing. What I appreciated most was how practical the course was. The assignments required me to implement AI algorithms in Python, reinforcing the material and giving me valuable coding experience.
+
+=====
 
 
 * Business Analytics:
@@ -63,6 +64,7 @@ I've shared my comments and insights about this learning pathway on my LinkedIn 
 
 (Pro tip: Many universities offer free LinkedIn Learning subscriptions to their students. Be sure to check with your institution!)
 
+=====
 
 * Statistical Analysis:
 
@@ -76,16 +78,20 @@ If you're a researcher, your statistical skills can either be your strength or a
 If you haven't taken any statistical courses, or you've forgotten what you learned, I highly recommend this course!
 It's available on LinkedIn Learning, is concise (just 5 hours), and covers all the essential knowledge you need, starting from the basics.
 
+=====
+
 
  ![Editing a markdown file for a talk](/images/6.png)
 
 
-To deepen your statistical knowledge, especially if you're into machine learning or working with datasets, I highly recommend these two courses—I’ve learned a lot from them!
-
 [Bayesian Statistics Specialization](https://www.coursera.org/specializations/bayesian-statistics)
 
+To deepen your statistical knowledge, especially if you're into machine learning or working with datasets, I highly recommend these two courses—I’ve learned a lot from them!
 
 You can audit these courses to access the materials for free. Also, I believe you can focus on the specific chapters you need. You’ll really enjoy the flow of the instructors—they make learning much easier and more enjoyable.
+
+=====
+
 
  ![Editing a markdown file for a talk](/images/7.png)
 
