@@ -18,11 +18,11 @@ author_profile: true
 
   Believe me, this is the best complete course you'll find anywhere! It's totally free (available on YouTube). It also offers many specific and focused courses. Here are my recommendations:
 
-[Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial](https://www.youtube.com/watch?v=HmEPCEXn-ZM&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=16)
+[Decision Tree In R - Decision Tree Algorithm - Data Science Tutorial](https://www.youtube.com/watch?v=HmEPCEXn-ZM&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=16)
 
-[Machine Learning With R | Machine Learning Full Course](https://www.youtube.com/watch?v=6dEUTmoXz0w&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=4)
+[Machine Learning With R - Machine Learning Full Course](https://www.youtube.com/watch?v=6dEUTmoXz0w&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=4)
 
-[R Tutorial For Beginners 2022 | R Programming Full Course In 7 Hours](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=2)
+[R Tutorial For Beginners 2022 - R Programming Full Course In 7 Hours](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=2)
 
 
 
