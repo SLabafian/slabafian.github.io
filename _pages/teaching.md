@@ -25,47 +25,6 @@ author_profile: true
 
 =====
 
-
-* Learning Python:
-  
-   ![Editing a markdown file for a talk](/images/2.png)
-
-  [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-NB_Keyword_Alpha_la.EN_Google&campaigntype=Search&portfolio=GreatBritain&language=EN&product=Course&test=&audience=Keyword&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_158764601497_._ad_707601457906_._kw_python+free+course_._de_c_._dm__._pl__._ti_kwd-298564862288_._li_9045886_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAiApY-7BhBjEiwAQMrrET6TDeZUUMNsoQsa0fUmwjxboxkto7q8-6p9GY6tr_T_KXwkHV4pzRoC77AQAvD_BwE&couponCode=ST21MT121624)
- 
-  
-    If you want to learn Python once and for all, I highly recommend this course. It’s nearly 52 hours long, and you can easily complete it     over a month. The course is well-structured, making it accessible for both beginners and those with some prior knowledge. Each topic is     explained thoroughly, with hands-on exercises and real-world projects that reinforce the concepts. I particularly enjoyed the sections on     web development, data analysis, and automation, which provided practical skills I could immediately apply. The instructor’s teaching style   is clear, engaging, and motivating, and the course materials are top-notch.
-
-
-(Pro tip: I have an 80% referral coupon for it.  Normally priced at £90, it’s available for only £20 with the coupon!)
-
-
-=====
-
-![Editing a markdown file for a talk](/images/3.png)
-
-  [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
-
-**If you're more interested in AI programming with Python, CS50's Introduction to Artificial Intelligence with Python is the best! 
-
-It was a truly transformative learning experience, providing both theoretical understanding and hands-on programming skills. The course begins with an introduction to AI concepts like search algorithms, knowledge representation, machine learning, neural networks, and natural language processing. What I appreciated most was how practical the course was. The assignments required me to implement AI algorithms in Python, reinforcing the material and giving me valuable coding experience.
-
-=====
-
-
-* Business Analytics:
-    ![Editing a markdown file for a talk](/images/4.png)
-
-  [Get Ahead in Business Analytics and Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
-
-In 2022, I faced the tough experience of failing a startup. The biggest lesson I learned from it was understanding how crucial it is to stay on top of your business's performance and have accurate predictions to guide decisions. This realization led me to discover the concept of business analysis.
-Interestingly, you can even pursue a graduate degree in this field. However, I believe the LinkedIn Learning pathway on business analysis (around 21 hours of content) covers most of the essential skills you need to effectively manage your business.
-I've shared my comments and insights about this learning pathway on my LinkedIn profile.
-
-
-(Pro tip: Many universities offer free LinkedIn Learning subscriptions to their students. Be sure to check with your institution!)
-
-=====
-
 * Statistical Analysis:
 
 ![Editing a markdown file for a talk](/images/5.png)
@@ -99,6 +58,52 @@ You can audit these courses to access the materials for free. Also, I believe yo
 [Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
 
 You only need high school-level algebra to get started with the first course in the series. While having some basic Python or coding experience is helpful, it’s not required. I highly recommend taking the courses in order for the best learning experience.
+
+
+====
+
+* Business Analytics:
+    ![Editing a markdown file for a talk](/images/4.png)
+
+  [Get Ahead in Business Analytics and Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis?u=108866162)
+
+In 2022, I faced the tough experience of failing a startup. The biggest lesson I learned from it was understanding how crucial it is to stay on top of your business's performance and have accurate predictions to guide decisions. This realization led me to discover the concept of business analysis.
+Interestingly, you can even pursue a graduate degree in this field. However, I believe the LinkedIn Learning pathway on business analysis (around 21 hours of content) covers most of the essential skills you need to effectively manage your business.
+I've shared my comments and insights about this learning pathway on my LinkedIn profile.
+
+
+(Pro tip: Many universities offer free LinkedIn Learning subscriptions to their students. Be sure to check with your institution!)
+
+====
+
+* Learning Python:
+  
+   ![Editing a markdown file for a talk](/images/2.png)
+
+  [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-NB_Keyword_Alpha_la.EN_Google&campaigntype=Search&portfolio=GreatBritain&language=EN&product=Course&test=&audience=Keyword&topic=Python&priority=Alpha&funnel=Conversion&utm_content=&utm_term=_._ag_158764601497_._ad_707601457906_._kw_python+free+course_._de_c_._dm__._pl__._ti_kwd-298564862288_._li_9045886_._pd__._&matchtype=b&gad_source=1&gclid=CjwKCAiApY-7BhBjEiwAQMrrET6TDeZUUMNsoQsa0fUmwjxboxkto7q8-6p9GY6tr_T_KXwkHV4pzRoC77AQAvD_BwE&couponCode=ST21MT121624)
+ 
+  
+    If you want to learn Python once and for all, I highly recommend this course.  It’s nearly 52 hours long, and you can easily complete it     over a month. The course is well-structured, making it accessible for both beginners and those with some prior knowledge. Each topic is     explained thoroughly, with hands-on exercises and real-world projects that reinforce the concepts.  I particularly enjoyed the sections on data analysis and automation, which provided practical skills I could immediately apply. The instructor’s teaching style   is clear, engaging, and motivating, and the course materials are top-notch.
+
+
+(Pro tip: I have an 80% referral coupon for it.  Normally priced at £90, it’s available for only £20 with the coupon!)
+
+
+=====
+
+![Editing a markdown file for a talk](/images/3.png)
+
+  [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+
+**If you're more interested in AI programming with Python, CS50's Introduction to Artificial Intelligence with Python is the best! 
+
+It was a truly transformative learning experience, providing both theoretical understanding and hands-on programming skills. The course begins with an introduction to AI concepts like search algorithms, knowledge representation, machine learning, neural networks, and natural language processing. What I appreciated most was how practical the course was. The assignments required me to implement AI algorithms in Python, reinforcing the material and giving me valuable coding experience.
+
+
+
+
+
+
 
 
 
