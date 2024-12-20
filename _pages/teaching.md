@@ -14,7 +14,7 @@ author_profile: true
 
   As a researcher, learning R can be a game-changer for your work. It’s not just a programming language—it’s a powerful tool designed for data analysis, visualization, and statistical modeling, all essential for academic research. Whether you’re analyzing large datasets, creating publication-quality plots, or running advanced statistical tests, R has libraries that make these tasks easier and more efficient. Plus, it’s widely used in academia, so learning R not only enhances your skill set but also helps you collaborate better with peers and stay ahead in your field. Trust me, once you get the hang of it, you’ll wonder how you managed without it!
 
-  Believe me, this is the best complete course you'll find anywhere! It's totally free (available on YouTube). It also offers many specific and focused courses. Here are my recommendations:
+ I found this YouTube playlist practical, comprehensive, and easy to follow! It also covers many specific and focused topics, making it ideal if you just need to learn R for a specific goal. Here are my recommendation courses:
 
 [Decision Tree In R - Decision Tree Algorithm - Data Science Tutorial](https://www.youtube.com/watch?v=HmEPCEXn-ZM&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG&index=16)
 
