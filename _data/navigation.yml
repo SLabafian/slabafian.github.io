@@ -6,24 +6,25 @@
 
 main:
 
- # - title: "CV"
- #   url: /files/CVFile.pdf
+
 
   - title: "How to learn..."
     url: /teaching/    
 
   - title: "Failure Resume"
     url: /portfolio/
+    
+  - title: "Events"
+    url: /year-archive/
 
+  - title: "CV"
+    url: /files/CVFile.pdf
     
 #  - title: "Publications"
 #    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
         
 #  - title: "Guide"
 #    url: /markdown/
