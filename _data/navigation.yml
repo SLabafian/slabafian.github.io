@@ -14,8 +14,8 @@ main:
   - title: "Failure Resume"
     url: /portfolio/
 
-  - title: "Talks"
-    url: /talks/
+#  - title: "Talks"
+#    url: /talks/
 
 
 #  - title: "Events"
