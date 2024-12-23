@@ -14,7 +14,7 @@ At the Centre for Future AI, University of London, we host weekly events dedicat
 
 This page provides a summary of each session, along with links to topics and tools discussed. I aim to keep it updated every Thursday following the event.
 
-{% if site.talkmap_link == false %}
+{% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
