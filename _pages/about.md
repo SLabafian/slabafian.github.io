@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-About me:
+
 I just graduated with a master’s degree from the University of London, SOAS, where I had the privilege of working under the guidance of [Prof. Adib-Moghadam](https://www.google.com/search?client=firefox-b-d&q=professor+arshin+adib-moghaddam) at the [Centre of Future AI](https://www.soas.ac.uk/research/research-centres/centre-ai-futures).
 
-My Research Interests:
+### My Research Interests:
 
-I am interested in applying ethnographic approaches within user-centered design to examine both designers' and users' values, aiming to understand the complex dynamics that shape technology interactions and to mitigate intersectional biases in applied concepts, with a particular focus on assistive IoT devices and LLM-based agents.
+I am interested in applying **ethnographic approaches** within user-centered design to study, explore, and mitigate **intersectional biases** in applied concepts, specifically within **assistive IoT devices** and **assistive LLM-based agents**. I strive to develop design strategies that are both inclusive and ethically grounded, ensuring that technological innovation acknowledges and addresses the complex, intersecting identities and needs of diverse communities.
 
 My research is grounded in two foundational theories: [Social Identity Theory](https://journals.sagepub.com/doi/10.1177/053901847401300204) by Henri Tajfel and [Intersectionality Theory](https://www.jstor.org/stable/1229039) by Kimberlé Crenshaw. 
 
-My primary research interest centers on studying, exploring, and mitigating intersectional biases in applied concepts, specifically within assistive IoT devices and assistive LLM-based agents. By integrating ethnographic methodology with these theoretical frameworks, I strive to develop design strategies that are both inclusive and ethically grounded, ensuring that technological innovation acknowledges and addresses the complex, intersecting identities and needs of diverse communities.
-
-My research integrates theoretical insights with practical application, addressing real-world challenges in assistive technology while advancing our understanding of how intersecting sociocultural factors influence technology design, implementation, and use. Here is [my CV](/files/CVFile.pdf).
+Here is [my CV](/files/CVFile.pdf).
 
 
 “How to Learn…” 
